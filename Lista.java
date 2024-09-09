@@ -1,4 +1,4 @@
-public class Lista implements ILista {
+public class Lista implements ILista { //hola
     private Nodo cabeza;
 
     public Lista() {

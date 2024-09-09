@@ -4,7 +4,7 @@ public interface ILista {
     void insertarElemento(Object elementoaInsertar);
 
     void eliminarElemento(Object elementoaEliminar);
-
+//hola
     void pop();
 
     Nodo buscarElemento(Object elementoaBuscar);

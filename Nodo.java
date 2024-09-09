@@ -37,5 +37,5 @@ public class Nodo {
     public String toString() {
         return "Nodo [dato=" + dato + ", enlace=" + enlace + "]";
     }
-
+    //hola
 }
